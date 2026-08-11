@@ -1,10 +1,10 @@
 # Dunjun
 
-Procedural dungeon roguelike with in-run dynamic difficulty (MSc project).
+Procedural dungeon roguelike with dynamic difficulty (MSc project).
 
 ## Playable build
 
-Playable build (itch.io): *add your itch link here*
+Playable build (itch.io): (https://r3dum.itch.io/dunjun)
 
 ## Controls
 
