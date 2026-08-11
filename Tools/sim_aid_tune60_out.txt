@@ -1,0 +1,30 @@
+﻿pot=2.6 save=0.55 thr=0.24 clear=0.592 avg=0.56 struggle=0.02
+pot=2.6 save=0.55 thr=0.28 clear=0.573 avg=0.53 struggle=0.02
+pot=2.8 save=0.55 thr=0.24 clear=0.589 avg=0.55 struggle=0.03
+pot=2.8 save=0.55 thr=0.28 clear=0.591 avg=0.54 struggle=0.03
+pot=3.0 save=0.55 thr=0.24 clear=0.589 avg=0.56 struggle=0.02
+pot=3.0 save=0.55 thr=0.28 clear=0.580 avg=0.52 struggle=0.02
+pot=2.6 save=0.6 thr=0.24 clear=0.591 avg=0.54 struggle=0.03
+pot=2.6 save=0.6 thr=0.28 clear=0.592 avg=0.54 struggle=0.03
+pot=2.8 save=0.6 thr=0.24 clear=0.591 avg=0.55 struggle=0.02
+pot=2.8 save=0.6 thr=0.28 clear=0.591 avg=0.54 struggle=0.03
+pot=3.0 save=0.6 thr=0.24 clear=0.598 avg=0.55 struggle=0.03
+pot=3.0 save=0.6 thr=0.28 clear=0.588 avg=0.55 struggle=0.02
+pot=2.6 save=0.65 thr=0.24 clear=0.597 avg=0.55 struggle=0.03
+pot=2.6 save=0.65 thr=0.28 clear=0.588 avg=0.54 struggle=0.03
+pot=2.8 save=0.65 thr=0.24 clear=0.597 avg=0.56 struggle=0.03
+pot=2.8 save=0.65 thr=0.28 clear=0.587 avg=0.54 struggle=0.02
+pot=3.0 save=0.65 thr=0.24 clear=0.600 avg=0.56 struggle=0.03
+pot=3.0 save=0.65 thr=0.28 clear=0.591 avg=0.54 struggle=0.02
+pot=2.6 save=0.7 thr=0.24 clear=0.594 avg=0.54 struggle=0.04
+pot=2.6 save=0.7 thr=0.28 clear=0.583 avg=0.54 struggle=0.02
+pot=2.8 save=0.7 thr=0.24 clear=0.595 avg=0.55 struggle=0.03
+pot=2.8 save=0.7 thr=0.28 clear=0.599 avg=0.56 struggle=0.03
+pot=3.0 save=0.7 thr=0.24 clear=0.604 avg=0.57 struggle=0.03
+pot=3.0 save=0.7 thr=0.28 clear=0.598 avg=0.55 struggle=0.02
+
+BEST 0.5995 {'skilled': 0.959578804347826, 'avg': 0.5595706618962433, 'struggle': 0.0286493860845839}
+params 3.0 0.24 2 0.6 0.65 1.2
+noaid 0.5078
+Normal 0.3765
+Hard 0.2288

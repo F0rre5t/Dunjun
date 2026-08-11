@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a1b2c3d4e5f60718293a4b5c6d7e8f, type: 3}
+  m_Name: Starwberry_Health
+  m_EditorClassIdentifier: Assembly-CSharp::RelicData
+  relicId: strawberry_health
+  displayName: "Strawberry"
+  description: "Increase max HP by 5."
+  hudIcon: {fileID: -7222904194379551870, guid: 44f097d9de0e68542b45cd3638a4bf24, type: 3}
+  allowDuplicates: 0
+  priceMin: 12
+  priceMax: 12
+  attackBonus: 0
+  attackPercentBonus: 0
+  maxHealthBonus: 5
+  speedBonus: 0
+  speedPercentBonus: 0
+  attackRangeBonus: 0
+  healOnPickup: 0
+  firstAttackCritOnEnemy: 0
+  firstAttackCritMultiplier: 2
+  blockChance: 0
+  attackHealChance: 0
+  attackHealAmount: 0

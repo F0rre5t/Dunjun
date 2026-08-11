@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a1b2c3d4e5f60718293a4b5c6d7e8f, type: 3}
+  m_Name: Sword_Heal
+  m_EditorClassIdentifier: Assembly-CSharp::RelicData
+  relicId: sword_heal
+  displayName: "Bloodthirsty Blade"
+  description: "10% chance to heal 1 HP when dealing damage."
+  hudIcon: {fileID: 4402927252257099635, guid: f24d22dfd96ab3b46981c625cbe9ec74, type: 3}
+  allowDuplicates: 0
+  priceMin: 12
+  priceMax: 12
+  attackBonus: 0
+  attackPercentBonus: 0
+  maxHealthBonus: 0
+  speedBonus: 0
+  speedPercentBonus: 0
+  attackRangeBonus: 0
+  healOnPickup: 0
+  firstAttackCritOnEnemy: 0
+  firstAttackCritMultiplier: 2
+  blockChance: 0
+  attackHealChance: 0.1
+  attackHealAmount: 1

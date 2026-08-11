@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4e5f6a7b8c9012345678901abcdef23, type: 3}
+  m_Name: HealthPotion_Heal1
+  m_EditorClassIdentifier: Assembly-CSharp::ConsumableData
+  itemId: health_potion_1
+  displayName: "\u5C0F\u8840\u74F6"
+  description: "\u56DE\u590D 1 \u70B9\u751F\u547D"
+  healAmount: 1
+  ignoreWhenFullHealth: 1
+  goldAmount: 0

@@ -1,0 +1,18 @@
+﻿Closest to 60%:
+clear=0.568 pot=3.2 thr=0.22 cd=2 save=0.75 spike=0.55 by={'skilled': 0.9654028436018958, 'avg': 0.4944372574385511, 'struggle': 0.025365853658536587}
+clear=0.563 pot=3.2 thr=0.22 cd=2 save=0.75 spike=0.65 by={'skilled': 0.9650315687226809, 'avg': 0.4981902792140641, 'struggle': 0.022367194780987885}
+clear=0.562 pot=2.8 thr=0.22 cd=2 save=0.75 spike=0.65 by={'skilled': 0.9657469077069457, 'avg': 0.4790326730126061, 'struggle': 0.04154302670623145}
+clear=0.562 pot=2.8 thr=0.22 cd=2 save=0.75 spike=0.55 by={'skilled': 0.9656174334140436, 'avg': 0.4923831655047767, 'struggle': 0.02824858757062147}
+clear=0.560 pot=2.4 thr=0.22 cd=2 save=0.75 spike=0.65 by={'skilled': 0.9639681796911558, 'avg': 0.47620286085825747, 'struggle': 0.030451866404715127}
+clear=0.558 pot=2.4 thr=0.22 cd=2 save=0.75 spike=0.55 by={'skilled': 0.9552730696798494, 'avg': 0.4790854767472071, 'struggle': 0.0311587147030185}
+clear=0.557 pot=3.2 thr=0.22 cd=3 save=0.75 spike=0.55 by={'skilled': 0.9609779031499764, 'avg': 0.4713735558408216, 'struggle': 0.017382413087934562}
+clear=0.557 pot=3.2 thr=0.28 cd=2 save=0.75 spike=0.65 by={'skilled': 0.9636277751535192, 'avg': 0.4791231732776618, 'struggle': 0.019029495718363463}
+clear=0.556 pot=2.8 thr=0.28 cd=2 save=0.75 spike=0.55 by={'skilled': 0.9625180201826046, 'avg': 0.4769270430523331, 'struggle': 0.038461538461538464}
+clear=0.556 pot=2.8 thr=0.22 cd=3 save=0.75 spike=0.55 by={'skilled': 0.9584870848708487, 'avg': 0.4670143415906128, 'struggle': 0.022066198595787363}
+
+Recommended:
+AidConfig(name='p3.2_t0.22_cd2_sv0.75_s0.55', w_hp=0.4, w_room_hurt=0.3, w_no_heal=0.2, w_near_death=0.1, potion_mult_max=3.2, drop_mult_max=1.2, spike_mult_min=0.55, aid_threshold=0.22, cooldown_rooms=2, near_death_hp=1, aid_strength=1.0, emergency_save_max=0.75)
+Easy: 0.572 rooms=12 {'skilled': 0.9640188209244396, 'avg': 0.5034869617950273, 'struggle': 0.035175879396984924}
+Normal: 0.350 rooms=15 {'skilled': 0.8692718583075626, 'avg': 0.16754399157768085, 'struggle': 0.0}
+Hard: 0.217 rooms=20 {'skilled': 0.6662132752992383, 'avg': 0.023952095808383235, 'struggle': 0.0}
+Easy no-aid: 0.467 {'skilled': 0.9258347016967706, 'avg': 0.3337378640776699, 'struggle': 0.00855188141391106}

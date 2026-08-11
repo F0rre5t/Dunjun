@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a1b2c3d4e5f60718293a4b5c6d7e8f, type: 3}
+  m_Name: Boots_Speed_01
+  m_EditorClassIdentifier: Assembly-CSharp::RelicData
+  relicId: boots_speed_01
+  displayName: "Straw Sandals"
+  description: "Gain 10% move speed."
+  hudIcon: {fileID: 5938213408126403027, guid: 624239682b2d7844893477bc11c8d835, type: 3}
+  allowDuplicates: 0
+  priceMin: 12
+  priceMax: 12
+  attackBonus: 0
+  attackPercentBonus: 0
+  maxHealthBonus: 0
+  speedBonus: 0
+  speedPercentBonus: 0.1
+  attackRangeBonus: 0
+  healOnPickup: 0
+  firstAttackCritOnEnemy: 0
+  firstAttackCritMultiplier: 2

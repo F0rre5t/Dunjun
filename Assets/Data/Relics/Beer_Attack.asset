@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a1b2c3d4e5f60718293a4b5c6d7e8f, type: 3}
+  m_Name: Beer_Attack
+  m_EditorClassIdentifier: Assembly-CSharp::RelicData
+  relicId: beer_attack
+  displayName: "Beer"
+  description: "Gain 100% attack, but move speed -30%."
+  hudIcon: {fileID: -7491102165410956120, guid: ef118239638e0d04e8a101cc5bf52dfc, type: 3}
+  allowDuplicates: 0
+  priceMin: 12
+  priceMax: 12
+  attackBonus: 0
+  attackPercentBonus: 1
+  maxHealthBonus: 0
+  speedBonus: 0
+  speedPercentBonus: -0.3
+  attackRangeBonus: 0
+  healOnPickup: 0
+  firstAttackCritOnEnemy: 0
+  firstAttackCritMultiplier: 2

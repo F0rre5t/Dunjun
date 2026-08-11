@@ -1,0 +1,32 @@
+﻿=== Top Easy configs closest to 60% ===
+p3.4_t0.25_cd2_sv0.7_s0.7: clear=0.470 (skilled=0.94 avg=0.29 struggle=0.01) pot_max=3.4 thr=0.25 cd=2 spike_min=0.7
+p2.8_t0.3_cd2_sv0.7_s0.55: clear=0.462 (skilled=0.94 avg=0.29 struggle=0.01) pot_max=2.8 thr=0.3 cd=2 spike_min=0.55
+p3.4_t0.25_cd2_sv0.55_s0.55: clear=0.460 (skilled=0.94 avg=0.28 struggle=0.01) pot_max=3.4 thr=0.25 cd=2 spike_min=0.55
+p2.2_t0.25_cd2_sv0.7_s0.7: clear=0.459 (skilled=0.95 avg=0.26 struggle=0.01) pot_max=2.2 thr=0.25 cd=2 spike_min=0.7
+p3.4_t0.3_cd2_sv0.7_s0.7: clear=0.459 (skilled=0.95 avg=0.27 struggle=0.01) pot_max=3.4 thr=0.3 cd=2 spike_min=0.7
+p3.4_t0.25_cd2_sv0.7_s0.55: clear=0.458 (skilled=0.95 avg=0.29 struggle=0.01) pot_max=3.4 thr=0.25 cd=2 spike_min=0.55
+p2.8_t0.3_cd2_sv0.7_s0.7: clear=0.456 (skilled=0.94 avg=0.27 struggle=0.01) pot_max=2.8 thr=0.3 cd=2 spike_min=0.7
+p2.2_t0.25_cd2_sv0.55_s0.7: clear=0.456 (skilled=0.94 avg=0.26 struggle=0.01) pot_max=2.2 thr=0.25 cd=2 spike_min=0.7
+
+=== Baseline without aid (strength=0) ===
+no-aid: clear=0.382 skilled=0.88 avg=0.16 struggle=0.00
+
+=== Normal / Hard with best Easy shape ===
+p3.4_t0.25_cd2_sv0.7_s0.7 rooms=12 strength=1.0: clear=0.452 by={'skilled': 0.9429075927015892, 'avg': 0.28825622775800713, 'struggle': 0.00949667616334283}
+normal rooms=15 strength=0.35: clear=0.300 by={'skilled': 0.800116211504939, 'avg': 0.054415700267618196, 'struggle': 0.0}
+hard rooms=20 strength=0.0: clear=0.180 by={'skilled': 0.512, 'avg': 0.0017825311942959, 'struggle': 0.0}
+
+=== Local refine around best ===
+refine_p3.6_t0.25_sv0.7999999999999999: clear=0.477 pot=3.6 thr=0.25 cd=2 save=0.8 spike=0.7 by={'skilled': 0.9435002296738632, 'avg': 0.29490022172949004, 'struggle': 0.011638316920322292}
+refine_p3.4_t0.2_sv0.6: clear=0.477 pot=3.4 thr=0.2 cd=2 save=0.6 spike=0.7 by={'skilled': 0.9515682656826568, 'avg': 0.29431689875799777, 'struggle': 0.01276595744680851}
+refine_p3.4_t0.2_sv0.7999999999999999: clear=0.477 pot=3.4 thr=0.2 cd=2 save=0.8 spike=0.7 by={'skilled': 0.9525179856115108, 'avg': 0.3152492668621701, 'struggle': 0.011794439764111205}
+refine_p3.6_t0.2_sv0.6: clear=0.472 pot=3.6 thr=0.2 cd=2 save=0.6 spike=0.7 by={'skilled': 0.9447069943289225, 'avg': 0.2996336996336996, 'struggle': 0.01386481802426343}
+refine_p3.6_t0.2_sv0.7: clear=0.472 pot=3.6 thr=0.2 cd=2 save=0.7 spike=0.7 by={'skilled': 0.953861097620204, 'avg': 0.3093603180339718, 'struggle': 0.010221465076660987}
+refine_p3.4_t0.3_sv0.7999999999999999: clear=0.470 pot=3.4 thr=0.3 cd=2 save=0.8 spike=0.7 by={'skilled': 0.9463302752293578, 'avg': 0.28289723170269243, 'struggle': 0.01098901098901099}
+
+=== FINAL PICK ===
+Easy: pot_max=3.6, thr=0.25, cd=2, drop_max=1.25, spike_min=0.7, emergency_save_max=0.8
+Easy: clear=0.474 rooms=12 by={'skilled': 0.9508479448117275, 'avg': 0.31063268892794377, 'struggle': 0.01015744032503809}
+Normal: clear=0.295 rooms=15 by={'skilled': 0.7875108412836079, 'avg': 0.04940755644980997, 'struggle': 0.00048355899419729207}
+Hard: clear=0.185 rooms=20 by={'skilled': 0.5121678321678321, 'avg': 0.00338829907386492, 'struggle': 0.0}
+Easy no-aid baseline: clear=0.379 by={'skilled': 0.8764621968616263, 'avg': 0.15963587921847247, 'struggle': 0.0010045203415369162}
