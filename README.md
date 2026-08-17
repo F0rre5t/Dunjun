@@ -12,6 +12,6 @@ Playable build: https://r3dum.itch.io/dunjun
 
 ## Open in Unity
 
-1. Install Unity 6000.3.10f1
+1. Install Unity 6000.3.10f1 or later
 2. Open this folder as a Unity project
 3. Open `Assets/Scenes/SampleScene.unity` and press Play
